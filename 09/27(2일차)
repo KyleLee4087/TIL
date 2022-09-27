@@ -12,3 +12,13 @@ https://chb2005.tistory.com/43?category=968971.
 
 - swagger auto-gen   
 http://nodejs-style.selfhow.com/post/?id=4559
+
+
+
+- mongoDB Syntax
+
+Array or Object 접근 시, $elemMatch를 사용하며 key값은 점(.)으로 연결한다.
+
+ex)
+1. db.company.find({"item.category":{"$elemMatch":{"type":"ksic"}}})
+2. db.company.find({"item.category":{"$elemMatch":{"type": { $not: { $eq: "ksic"}}}}})
