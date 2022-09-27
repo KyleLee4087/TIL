@@ -1,0 +1,14 @@
+## 9/27
+
+- 불친절한 Swagger.. tab / space bar를 알맞게 써야지만 페이지에 나온다.   
+- 아래는 한참 헤메고 문제 해결한 뒤에 찾은 블로그, 깔끔하게 정리되어 있다.   
+https://velog.io/@godkor200/%EA%B7%80%EC%B0%AE%EC%9D%80-api-%EB%AC%B8%EC%84%9C-swagger-UI%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94   
+
+- yaml 문법   
+https://subicura.com/k8s/prepare/yaml.html#%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC   
+
+- yaml/component화 적용해보기.   
+https://chb2005.tistory.com/43?category=968971.  
+
+- swagger auto-gen   
+http://nodejs-style.selfhow.com/post/?id=4559
